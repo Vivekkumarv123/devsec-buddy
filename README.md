@@ -13,6 +13,10 @@ This project consists of a **frontend** built with Next.js and a **backend** pow
 **DevSec Buddy — Your Developer-Sidekick for Securing the Web**
 
 ---
+## 🖼️ Screenshots
+![Scan Form](<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/46d2c2ad-b956-45e8-808e-0ab543bcbbce" />)
+
+![Scan Result](<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/c730479a-ada0-4dae-a2ee-5f374fa96cfe" />)
 
 ## Features
 
