@@ -5,6 +5,8 @@
 
 This project consists of a **frontend** built with Next.js and a **backend** powered by Node.js and Python. The system offers real-time scans, security scores, vulnerability insights, and detailed remediation guidance using a sleek, modern interface.
 
+⚠️ **Note**: The backend is hosted on Render’s free tier, so the first request may take 20–50 seconds due to cold start. Please be patient — it’s waking up the security minions! 🛠️⏳
+
 * Live URL: [DevSec Buddy](https://devsec-buddy-frontend.vercel.app/)
 ---
 
