@@ -5,6 +5,7 @@
 
 This project consists of a **frontend** built with Next.js and a **backend** powered by Node.js and Python. The system offers real-time scans, security scores, vulnerability insights, and detailed remediation guidance using a sleek, modern interface.
 
+* Live URL: [DevSec Buddy](https://devsec-buddy-frontend.vercel.app/)
 ---
 
 ## Tagline
