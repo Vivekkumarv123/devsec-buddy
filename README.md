@@ -26,7 +26,7 @@ This project consists of a **frontend** built with Next.js and a **backend** pow
 
 ## Features
 
-### Frontend
+### Frontend- ![Github Repo](https://github.com/Vivekkumarv123/devsec-buddy-frontend.git)
 
 * Website security scan form with animated UI
 * Visual security score (circular progress bar)
@@ -36,7 +36,7 @@ This project consists of a **frontend** built with Next.js and a **backend** pow
 * Responsive and mobile-friendly UI
 * Smooth animations using Framer Motion
 
-### Backend
+### Backend- ![Github Repo](https://github.com/Vivekkumarv123/devsec-buddy-backend.git)
 
 * REST API to trigger scans with custom options
 * Modular scan profiles: `basic`, `standard`, `deep`
