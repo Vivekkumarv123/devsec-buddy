@@ -14,9 +14,13 @@ This project consists of a **frontend** built with Next.js and a **backend** pow
 
 ---
 ## 🖼️ Screenshots
-![Scan Form](<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/46d2c2ad-b956-45e8-808e-0ab543bcbbce" />)
 
-![Scan Result](<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/c730479a-ada0-4dae-a2ee-5f374fa96cfe" />)
+*Scan Form-
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/4c2361e1-8905-457d-b3d1-b040236eba87" />
+
+*Scan Result-
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/8dbdbee1-ff91-4af3-a28f-7f01ecac0b23" />
+
 
 ## Features
 
